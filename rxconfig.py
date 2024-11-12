@@ -1,5 +1,5 @@
 import reflex as rx
 
 config = rx.Config(
-    app_name="reflex_practica",
+    app_name="landing_page",
 )
